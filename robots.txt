@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://roll-dorado-casino.gr/sitemap.xml
