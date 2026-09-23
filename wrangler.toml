@@ -1,0 +1,11 @@
+name = "roll-dorado-casino-gr"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=roll-dorado-casino.gr"
+HMAC_KEY = "0a2b527099030a6a13f0c3625619237db550dd0363ead98ab3e23a46f9cf6ed8"
+COOKIE_NAME = "bqu"
+PLAY_PATH = "try"
+BUTTON_ID = "p7e13d29635c197292ac7e52501cd9de3"
+GATE_SALT = "44b09f18b8932566"
